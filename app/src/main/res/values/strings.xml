@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MartialMedia</string>
+
+    <string name="content_desc_image_news_item">content_desc_image_news_item</string>
+    <string name="getting_news">getting news</string>
+    <string name="image_news_in_detail">Image News In Detail</string>
+    <string name="search">Search</string>
+    <string name="search_your_news">Search your news</string>
+
+</resources>
